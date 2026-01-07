@@ -61,7 +61,7 @@ This endpoint allows keyword-based discovery of courses.
 
 Query parameters
 
-keyword (string, optional)
+query (string, optional)
 Used to search courses by name, stream, or common terms (e.g. BCA, MBA, B.Tech).
 
 page_number (integer, optional, default: 0)
@@ -84,7 +84,7 @@ Example response (simplified)
       "location": "Kolkata",
       "collegeFees": "3.20 Lakhs",
       "courseDuration": "3 YEAR",
-      "courseUrl": "https://www.promilo.com/course/bca-tint"
+      "courseUrl": "[https://www.promilo.com/course/bca-tint](https://www.promilo.com/courses-description/it-software/bca/bachelor-of-computer-applications-bca/techno-international-new-town-6)"
     }
   ]
 }
