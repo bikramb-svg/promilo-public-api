@@ -15,17 +15,17 @@ Using the Promilo Public API, you can:
 
 Access structured details like:
 
-college name
+- college name
 
-course duration
+- course duration
 
-delivery mode
+- delivery mode
 
-fees (where available)
+- fees (where available)
 
-location
+- location
 
-accreditations, rankings, and entrance exams
+- accreditations, rankings, and entrance exams
 
 Common use cases include:
 
