@@ -179,3 +179,5 @@ Website: https://www.promilo.com
 Contact: https://www.promilo.com/contact-us
 
 If something in the API or documentation feels unclear, that feedback is genuinely useful.
+More real-world examples are available in [docs/use-cases.md](docs/use-cases.md).
+
