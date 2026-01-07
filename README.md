@@ -10,9 +10,8 @@ What this API provides
 
 Using the Promilo Public API, you can:
 
-Search and discover courses across streams and levels
-
-Identify colleges and institutions offering specific programs
+- Search and discover courses across streams and levels
+- Identify colleges and institutions offering specific programs
 
 Access structured details like:
 
