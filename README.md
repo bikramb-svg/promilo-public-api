@@ -16,28 +16,19 @@ Using the Promilo Public API, you can:
 Access structured details like:
 
 - college name
-
 - course duration
-
 - delivery mode
-
 - fees (where available)
-
 - location
-
 - accreditations, rankings, and entrance exams
 
 Common use cases include:
 
-Education comparison platforms
-
-Admission counselling tools
-
-Career guidance and discovery apps
-
-AI-powered assistants answering education-related queries
-
-API specification (OpenAPI)
+- Education comparison platforms
+- Admission counselling tools
+- Career guidance and discovery apps
+- AI-powered assistants answering education-related queries
+- API specification (OpenAPI)
 
 The complete OpenAPI specification is available here:
 
