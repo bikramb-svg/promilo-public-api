@@ -74,7 +74,7 @@ Example response (simplified)
       "location": "Kolkata",
       "collegeFees": "3.20 Lakhs",
       "courseDuration": "3 YEAR",
-      "courseUrl": "[https://www.promilo.com/course/bca-tint](https://www.promilo.com/courses-description/it-software/bca/bachelor-of-computer-applications-bca/techno-international-new-town-6)"
+      "courseUrl": "[[https://www.promilo.com/course/bca-tint](https://www.promilo.com/courses-description/it-software/bca/bachelor-of-computer-applications-bca/techno-international-new-town-6)](https://www.promilo.com/courses-description/it-software/bca/bachelor-of-computer-applications-bca/techno-international-new-town-6)"
     }
   ]
 }
