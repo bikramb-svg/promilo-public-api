@@ -58,7 +58,7 @@ page_number (integer, optional, default: 0)
 Used for pagination.
 
 Example request
-curl -X GET "https://api.promilo.com/courses?keyword=BCA&page_number=0"
+curl -X GET "https://api.promilo.com/courses?query=BCA&page_number=0"
 
 Example response (simplified)
 {
